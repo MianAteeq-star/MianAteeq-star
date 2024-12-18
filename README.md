@@ -1,7 +1,3 @@
-
-
-<h1 align="center">Hi 👋, I'm Muhammad Attique</h1>
-
 [comment]: <> (Animated Intro.)
 
 <h1 align="center">
@@ -35,7 +31,7 @@
              <br>
             <img src="https://skillicons.dev/icons?i=git,github,gitlab," />
              <br>
-            <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express,react" />
+            <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express"/><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
              <br>
             <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,bootstrap,tailwind,figma," />
              <br>
@@ -49,7 +45,7 @@
 </div>
 
 <br>
-
+ 
   
 <h1 align="center"> 
 ✍️ Random Dev Quote
