@@ -66,5 +66,6 @@
   <img width="440px" src="https://github-readme-stats.vercel.app/api?username=mianateeq-star&show_icons=true&theme=onedark">
   <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mianateeq-star&layout=compact&theme=onedark" />
   <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=mianateeq-star&theme=github">
-  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=mianateeq-star&theme=onedark" />
+    <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=mianateeq-star&theme=onedark" />
+
 </div>
