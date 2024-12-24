@@ -1,5 +1,5 @@
 [comment]: <> (Animated Intro.)
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=900&height=70&duration=5000&lines=Hi+There!+👋;+I'm+Muhammad+Attique!;+Software+Developer,+Ready+to+Collaborate...+😎&color=3C99D4" />
 </h1>
@@ -17,11 +17,40 @@
 
 [comment]: <> (contact Me)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mian-ateeq-star-a6a0202b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mian-ateeq-star-a6a0202b0/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/user1629yi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user1629yi/" height="30" width="40" /></a>
-</p>
+<div>
+<div >
+<!--   <h2>🌐 Connect with Me</h2> -->
+<h1 width="50%"> 🌐 Connect with Me</h1>
+  <p>Discover my work and connect on these platforms!</p>
+
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://www.linkedin.com/in/mr-attique-developer/" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+        </a>
+      </td>
+      <td align="center">
+      <a href="https://leetcode.com/u/Mr_Attique_Developer/" target="_blank">
+    <img src="https://img.shields.io/badge/Leetcode-222222?style=for-the-badge&logo=leetcode&logoColor=yellow" />
+  </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
+          <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="gmail">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://ecommerce-mern-nine-iota.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Ecommerce">
+        </a>
+      </td>
+    </tr>
+   
+  </table>
+</div>
 
 <div>
     <div>
@@ -62,10 +91,30 @@
 
 
 
-<div align="center">
-  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=mianateeq-star&show_icons=true&theme=onedark">
-  <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mianateeq-star&layout=compact&theme=onedark" />
-  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=mianateeq-star&theme=github">
-    <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=mianateeq-star&theme=onedark" />
 
+
+<div align="center">
+  <br>
+  <img width="840px" src="https://github-readme-activity-graph.vercel.app/graph?username=mianateeq-star&custom_title=Muhammad%20Attique%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
+  <br>
+  <table>
+    <tr>
+      <td>
+  <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mianateeq-star&layout=compact&theme=onedark" />
+      </td>
+      <td>
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=mianateeq-star&show_icons=true&theme=onedark"> 
+      </td>
+    </tr>
+    <tr>   
+      <td>
+        <img width="400px" src="https://streak-stats.demolab.com/?user=mianateeq-star&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+      </td>
+      <td>
+         <img  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mianateeq-star&theme=highcontrast&hide_border=true" alt="Repos Per Language">
+      </td>
+    </tr>
+  </table>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
